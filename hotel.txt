@@ -1,1 +1,3 @@
-directly to master branch
+directly to master branch using feature
+and by forcing
+adding someting 123456
